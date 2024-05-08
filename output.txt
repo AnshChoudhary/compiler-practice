@@ -3,7 +3,9 @@
 3 int main()
 4 {
 5 
-6 	// prints hello world
+6 	/* prints hello world
+cjdsijcs
+    */
 7 	printf("Hello World");
 8 
 9 	return 0;
